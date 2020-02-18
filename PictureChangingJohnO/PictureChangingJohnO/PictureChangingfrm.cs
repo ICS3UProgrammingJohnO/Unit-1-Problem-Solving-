@@ -54,9 +54,9 @@ namespace PictureChangingJohnO
 
         private void StMarksToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //change the labels to reflect St mak
-            this.lblSchool.Text = "Immaculata";
-            this.lblMascot.Text = "Saints";
+            //change the labels to reflect St mark
+            this.lblSchool.Text = "StMarks";
+            this.lblMascot.Text = "Lion";
         }
 
         private void ImmaculataToolStripMenuItem_Click(object sender, EventArgs e)
