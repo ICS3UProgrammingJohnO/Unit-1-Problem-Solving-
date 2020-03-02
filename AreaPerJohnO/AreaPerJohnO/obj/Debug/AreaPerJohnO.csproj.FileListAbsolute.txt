@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\obj\Debug\AreaPerJohnO.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\obj\Debug\AreaPerJohnO.frmAreaPer.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\obj\Debug\AreaPerJohnO.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\obj\Debug\AreaPerJohnO.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\bin\Debug\AreaPerJohnO.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\bin\Debug\AreaPerJohnO.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\bin\Debug\AreaPerJohnO.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\obj\Debug\AreaPerJohnO.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\obj\Debug\AreaPerJohnO.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Unit 1 (Problem Solving)\AreaPerAlex\AreaPerAlex\obj\Debug\AreaPerJohnO.pdb
